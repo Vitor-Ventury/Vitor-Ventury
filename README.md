@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Vitor Ventury 👋
 
 - 🔭 Trabalho como Analista de Sistemas
-- 🌱 Estudando Python
+- 🌱 Estudando Python e R
 
 ##
 <div style="display: inline_block">
