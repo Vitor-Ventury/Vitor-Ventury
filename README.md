@@ -1,13 +1,13 @@
 ## Olá! Eu sou o Vitor Ventury 👋
 
-- 🔭 Hoje trabalho como Analista de Sistemas
+- 🔭 Trabalho como Analista de Sistemas
 - 🌱 Estudando Python
 
 ##
-<div style="display: inline_block">
+<div>
   <a href="https://github.com/Vitor-Ventury">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor-Ventury&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Ventury&layout=compact&langs_count=7&theme=dark"/>
+  <img  align="left"height="160em" src="https://github-readme-stats.vercel.app/api?username=Vitor-Ventury&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Ventury&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
