@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Vitor Ventury 👋
 
+Um aspirante a Analista de Dados apaixonado por conhecimento
+
 - 🔭 Trabalho como Analista de Sistemas
 - 🌱 Estudando Python e R
 
