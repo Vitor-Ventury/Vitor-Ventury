@@ -3,6 +3,7 @@
 - 🔭 Hoje trabalho como Analista de Sistemas
 - 🌱 Estudando Python
 
+##
 <div align="center">
   <a href="https://github.com/Vitor-Ventury">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor-Ventury&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -16,6 +17,13 @@
   <img align ="center" alt="Vitor-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="Vitor-Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
   <img align="center" alt="Vitor-Matplotlib" height="30" width="40" src="https://cdn.svgporn.com/logos/matplotlib.svg">
-  <img align="right" alt="Vitor-Data-Science" height="150" style="border-radius:50px" src="https://giny.cat/wp-content/uploads/2020/07/data-science-gif-purple-infographic.gif">
-  [!data-science-gif-purple-infographic](https://giny.cat/wp-content/uploads/2020/07/data-science-gif-purple-infographic.gif)
+  <img align="center" alt="Vitor-Numpy" height="30" width="40" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg">
+</div>
+  
+##
+  
+<div> 
+  <a href = "mailto:vitoraugustoventury@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vitor-ventury-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <img align="right" height="200" src="https://giny.cat/wp-content/uploads/2020/07/data-science-gif-purple-infographic.gif">
 </div>
